@@ -1,4 +1,4 @@
-# DS4Talker
+# DS4Talker 🗣️
 DS4Talker allows you to use a PlayStation DS4 controller to type words on a Windows system through Cygwin. 
 
 # Requirements
